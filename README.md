@@ -6,6 +6,6 @@ Nasa Astronomy pictures of the day
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 ### `npm start`
